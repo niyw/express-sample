@@ -22,5 +22,5 @@ gulp.task('develop', () => {
 });
 
 gulp.task('default', [
-  'develop'
+  //'develop'
 ]);
